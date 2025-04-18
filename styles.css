@@ -75,6 +75,11 @@ body {
   max-width: 1000px;
   text-align: justify;
 }
+
+.primera__seccion p.sobre_mi_parrafo {
+  font-family: "Krona One", sans-serif;
+  font-size: 16px;
+}
 /* accede a mis redes y botones*/
 .segunda_seccion {
   padding: 0 6.5%;
